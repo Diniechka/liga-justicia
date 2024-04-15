@@ -1,9 +1,9 @@
-# Heroinas edl mundo Ghibli
+# Heroinas mundo Ghibli
 
-* Mononoke
-* Nausikaä
-* AHiena
-* Mujer Maravilla
-* Linterna Rosa
-* Rowina
-* Chihiro
+- Mononoke
+- Nausikaä
+- AHiena
+- Mujer Maravilla
+- Linterna Rosa
+- Rowina
+- Chihiro
