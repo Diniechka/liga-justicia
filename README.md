@@ -8,6 +8,6 @@ Estoy modificando los ficheros iniciales y aprendiendo a usar la modificaciones 
 
 ### **Esta actualización la estoy realizando desde GitHub.**
 
-## Una última actualización desde Remoto
-
+#### Una última actualización desde Remoto
+Estoy haciendo cambios dentro del local y el remoto a su vez.
 Hice adiciones de esta dos últimas líneas. También eliminé el repositorio para añadir cambios por el gitignore.
