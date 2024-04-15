@@ -1,4 +1,4 @@
-# Chicas en el mundo Ghibli
+# Lo femenino en el mundo Ghibli
 
 En el maravilloso mundo de Studio Ghibli, creado por el legendario director Hayao Miyazaki y otros talentosos cineastas, hay una serie de heroínas femeninas que son inolvidables y profundamente inspiradoras. Estas heroínas no solo son personajes complejos y multifacéticos, sino que también desempeñan roles clave en las historias, mostrando valentía, determinación y compasión. Aquí tienes algunas de las heroinas más destacadas:
 
