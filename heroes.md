@@ -1,9 +1,9 @@
-# Heroes
+# Heroinas edl mundo Ghibli
 
-* Superman
-* Batman
-* Aquaman
+* Mononoke
+* Nausikaä
+* AHiena
 * Mujer Maravilla
-* Linterna Verde
-* Robin
-* Volcán Negro
+* Linterna Rosa
+* Rowina
+* Chihiro
