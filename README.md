@@ -1,7 +1,9 @@
-# Objetivos de la repositorio
+# Objetivos del repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Este proyecto se encarga de mostrar lo femenino en el mundo Ghibli. Además, me permite acercarme al conocimiento de GitHub.
 
 
 ## Notas
-Pueden hacer lo que quieran...
+Estoy modificando los ficheros iniciales y aprendiendo a usar la modificaciones tanto en el remoto como en  local.
+
+### **Esta actualización la estoy realizando desde GitHub.**
