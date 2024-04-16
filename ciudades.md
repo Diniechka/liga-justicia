@@ -5,5 +5,5 @@
 3. Hell's Kitchen
 4. Comala
 5. Macondo
-6. Bogotá
 6. Ibagué
+7. Bogotá
