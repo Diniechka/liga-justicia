@@ -7,3 +7,6 @@
 5. Macondo
 6. Ibagué
 7. Bogotá
+8. Buenos Aires
+9. Barcelona
+
